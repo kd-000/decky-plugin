@@ -21,6 +21,7 @@ import logo from "../assets/logo.png";
 //   right: number;
 // }
 
+// @ts-ignore
 const Content: VFC<{ serverAPI: ServerAPI }> = ({serverAPI}) => {
   // const [result, setResult] = useState<number | undefined>();
 
