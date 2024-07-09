@@ -1,3 +1,6 @@
+https://steamcommunity.com/app/1675200/discussions/2/6126609705344422759/
+https://www.reddit.com/r/SteamDeck/comments/1at6d63/decky_plugin_request_alarm_clock_and_eyestrain/
+
 # React-Frontend Plugin Template [![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://deckbrew.xyz/discord)
 
 Reference example for using [decky-frontend-lib](https://github.com/SteamDeckHomebrew/decky-frontend-lib) in a [decky-loader](https://github.com/SteamDeckHomebrew/decky-loader) plugin.
